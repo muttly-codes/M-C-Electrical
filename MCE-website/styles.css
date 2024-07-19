@@ -1,0 +1,64 @@
+/*
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#sticky-header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    z-index: 1000;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navigation li {
+    margin: 0 10px;
+}
+
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.contact-info {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.phone-button, .enquire-button {
+    background-color: #f00;
+    color: #fff;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.phone-button:hover, .enquire-button:hover {
+    background-color: #c00;
+}
+
+.slide-show {
+    margin-left: 20px;
+}
+*/
